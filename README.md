@@ -37,7 +37,7 @@ A simple drawing application that allows users to draw on a canvas using differe
 - Clear the canvas
 - Save the drawing as an image
 
-![Drawing App Screenshot](path/to/drawingapp.png)
+![Drawing App Screenshot](drawingapp/drawingapp.png)
 
 ### Drinking Water Tracker
 
@@ -49,7 +49,7 @@ A web app to help users track their daily water intake and ensure they stay hydr
 - Visual representation of daily goal
 - Reset daily intake
 
-![Drinking Water Tracker Screenshot](path/to/drinking-water-tracker-screenshot.png)
+![Drinking Water Tracker Screenshot](drinkingwater/drinkingwater.png)
 
 ### GitHub Pages
 
@@ -61,7 +61,7 @@ A project demonstrating how to create and host a personal or project website usi
 - Deploy to GitHub Pages
 - Custom domain setup (optional)
 
-![GitHub Pages Screenshot](path/to/github-pages-screenshot.png)
+![GitHub Pages Screenshot](githubpages/githubpages.png)
 
 ### Password Generator
 
@@ -73,7 +73,7 @@ A tool to generate strong, random passwords based on user-selected criteria.
 - Include/exclude uppercase, lowercase, numbers, and symbols
 - Copy generated password to the clipboard
 
-![Password Generator Screenshot](path/to/password-generator-screenshot.png)
+![Password Generator Screenshot](passwordgenerator/passwordgenerator.png)
 
 ### Password Strength Checker
 
@@ -85,7 +85,7 @@ An application that evaluates the strength of a password based on various criter
 - Visual feedback on password strength
 - Suggestions for stronger passwords
 
-![Password Strength Checker Screenshot](path/to/password-strength-checker-screenshot.png)
+![Password Strength Checker Screenshot](passwordstrength/passwordstrength.png)
 
 ### Quiz App
 
@@ -97,7 +97,7 @@ An interactive quiz application that presents multiple-choice questions and prov
 - Score tracking
 - Immediate feedback on answers
 
-![Quiz App Screenshot](path/to/quiz-app-screenshot.png)
+![Quiz App Screenshot](quizapp/quizapp.png)
 
 ### Sound Board
 
@@ -109,7 +109,7 @@ A fun application that plays different sounds when buttons are clicked, simulati
 - Visual feedback when a sound is played
 - Stop all sounds button
 
-![Sound Board Screenshot](path/to/sound-board-screenshot.png)
+![Sound Board Screenshot](soundboard/Sounds.png)
 
 ### Theme Clock
 
@@ -121,7 +121,7 @@ A stylish clock application that allows users to switch between different themes
 - Multiple themes to choose from
 - Smooth transitions between themes
 
-![Theme Clock Screenshot](path/to/theme-clock-screenshot.png)
+![Theme Clock Screenshot](themeclock/themeclock.png)
 
 ### To-Do List
 
@@ -133,7 +133,7 @@ A classic to-do list application that helps users manage their tasks efficiently
 - Mark tasks as completed
 - Filter tasks by status
 
-![To-Do List Screenshot](path/to/to-do-list-screenshot.png)
+![To-Do List Screenshot](todolist/todolist.png)
 
 ## Technologies Used
 
